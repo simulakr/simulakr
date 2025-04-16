@@ -3,7 +3,7 @@ Hi there! I'm Yunus Bilgiç 👋
 🧠 **Data Scientist & Analyst | AI Researcher**  
 Passionate about building intelligent systems, solving real-world problems with data, and developing innovative machine learning applications.
 
-🎓 Graduated from Istanbul Technical University with a degree in Aerospace Engineering.  
+🎓 Graduated from Istanbul Technical University with a degree in Aircraft Engineering.  
 🏅 Ranked 5th in Turkey in the ALES (Academic Personnel and Graduate Education Exam).
 
 I have successfully completed the Miuul Data Science Bootcamp and the NewMind AI Bootcamp, where I honed my skills in machine learning and data analysis. As a Kaggle Notebook Master, I actively contribute to the data science community by sharing insightful notebooks and engaging in competitions.​
@@ -45,6 +45,6 @@ GitHub
 
 🌐 Connect with Me:
 
-LinkedIn: Yunus Bilgiç
+LinkedIn: in/yunusbilgic
 
-Kaggle: yunusbilgi
+Kaggle: kaggle.com/yunusbilgi

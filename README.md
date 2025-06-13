@@ -13,7 +13,7 @@ Building intelligent systems, solving real-world problems with data, and craftin
 ## 🎓 Education & Certifications
 
 - **B.Sc., Aeronautical Engineering** — Istanbul Technical University  
-- **Miuul Data Science Bootcamp** — Data Science & ML fundamentals  
+- **Miuul Data Science Bootcamp** — Data Science & ML Projects 
 - **NewMind AI Bootcamp** — Neo4j Cypher · Vector Embedding · GraphRAG · LangChain · Chatbot · Streamlit  
 - **Kaggle Notebook Master** — 25 Machine Learning Project 
 - **Professional Student Performance Coach** — Guided students to academic success  

@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-ML%20Engineer-blueviolet" alt="AI/ML Engineer Badge" />
-  <img src="https://img.shields.io/badge/Data-Scientist%20Place-brightgreen" alt="Data Scientist" />
+  <img src="https://img.shields.io/badge/Data-Scientist%20Place-brightgreen" alt="Data-Scientist" />
 </p>
 
 # Yunus Bilgiç 👋

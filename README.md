@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-Expert-blue" alt="Data Scientist Badge" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-Expert-blueviolet" alt="AI Engineer Badge" />
-  <img src="https://img.shields.io/badge/ML%20Engineer-Expert-green" alt="ML Engineer Badge" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-blue" alt="Data Scientist Badge" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-blueviolet" alt="AI Engineer Badge" />
+  <img src="https://img.shields.io/badge/ML%20Engineer-green" alt="ML Engineer Badge" />
 </p>
 
 

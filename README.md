@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-ML%20Engineer-blueviolet" alt="AI/ML Engineer Badge" />
-  <img src="https://img.shields.io/badge/KPSS–2nd%20Place-brightgreen" alt="KPSS 2nd Place" />
 </p>
 
 # Yunus Bilgiç 👋

@@ -14,11 +14,9 @@ Building intelligent systems, solving real-world problems with data, and craftin
 
 - **B.Sc., Aeronautical Engineering** — Istanbul Technical University  
 - **Miuul Data Science Bootcamp** — Data Science & ML fundamentals  
-- **NewMind AI Bootcamp** — neo4j Cypher · vector embedding · GraphRAG · LangChain · chatbot · Streamlit  
+- **NewMind AI Bootcamp** — Neo4j Cypher · Vector Embedding · GraphRAG · LangChain · Chatbot · Streamlit  
 - **Kaggle Notebook Master** — 25 Machine Learning Project 
 - **Professional Student Performance Coach** — Guided students to academic success  
-- **KPSS** — Ranked 2nd nationwide in Public Personnel Selection Exam  
-
 ---
 
 ## 🏆 Achievements

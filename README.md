@@ -23,9 +23,9 @@ Building intelligent systems, solving real-world problems with data, and craftin
 
 ## 🏆 Achievements
 
-- **ALES** — 5th place nationwide  
-- **KPSS** — 2nd place nationwide  
-- **Kaggle Notebook Master** — Active notebook author with high-impact kernels  
+ **✔️ ALES** — 5th place nationwide  
+ **✔️ KPSS** — 2nd place nationwide  
+ **✔️ Kaggle Notebook Master** — Active notebook author with high-impact kernels  
 
 ---
 
@@ -41,26 +41,26 @@ Building intelligent systems, solving real-world problems with data, and craftin
 
 ## 📂 Projects
 
-### Technical Support Chatbot (GraphRAG & Streamlit)  
+### ✅ Technical Support Chatbot (GraphRAG & Streamlit)  
 Designed and deployed a hybrid RAG–powered chatbot for technical support, featuring:  
 - **GraphRAG architecture** using Neo4j for knowledge graph storage and Cypher for query generation  
 - **Vector embedding** of unstructured troubleshooting logs for semantic retrieval  
 - **LangChain integration** to orchestrate LLM-driven Cypher generation and response composition  
 - **Streamlit UI** enabling interactive chat, dynamic graph visualizations, and real-time support insights  
 
-### Loan Approval Prediction & Resampling  
+### ✅ Loan Approval Prediction & Resampling  
 Handled imbalanced datasets using SMOTE, ADASYN, and custom sampling for robust credit-risk models.
 
-### Customer Sentiment Analysis  
+### ✅ Customer Sentiment Analysis  
 Built a sentiment pipeline with Hugging Face Transformers to analyze and visualize customer reviews.
 
-### Hamilton 2025 Performance Prediction  
+### ✅ Hamilton 2025 Performance Prediction  
 Ensembled tree-based models to forecast Formula 1 race outcomes, including the Mexico GP.
 
-### Streamlit Binary Classification App  
+### ✅ Streamlit Binary Classification App  
 Interactive web app for end-to-end model training, evaluation, and deployment.
 
-### SQL Banking System  
+### ✅ SQL Banking System  
 Designed and implemented a full-scale banking database with advanced SQL queries and stored procedures.
 
 ---

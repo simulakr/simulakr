@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-blue" alt="Data Scientist Badge" />
+  <img src="https://img.shields.io/badge/Quant%20Trader-blue" alt="Data Scientist Badge" />
   <img src="https://img.shields.io/badge/Data%20Analyst-darkgreen" alt="ML Engineer Badge" />
 </p>
 
 
 # Yunus Bilgiç 👋
 
-**AI Engineer & Data Scientist**  
+**Data Analyst & Quant Trader**  
 Building intelligent systems, solving real-world problems with data, and crafting cutting-edge ML/AI applications.
 
 ---

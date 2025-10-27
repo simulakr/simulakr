@@ -22,8 +22,8 @@ Building intelligent systems, solving real-world problems with data, and craftin
 
 ## 🏆 Achievements
 
- **✔️ ALES** — 5th place nationwide  
- **✔️ KPSS** — 2nd place nationwide  
+ **✔️ ALES** — 5th
+ **✔️ KPSS** — 2nd
  **✔️ Kaggle Notebook Master** — Active notebook author with high-impact kernels  
 
 ---
@@ -33,7 +33,7 @@ Building intelligent systems, solving real-world problems with data, and craftin
 - **Languages & Frameworks:** Python · SQL · Streamlit · Neo4j Cypher · LangChain  
 - **Data & ML:** Pandas · NumPy · scikit-learn · XGBoost · LightGBM · TensorFlow · Keras  
 - **NLP & Embeddings:** Hugging Face Transformers · Vector Embedding · GraphRAG  
-- **Visualization:** Matplotlib · Seaborn  
+- **Visualization:** Power BI · Matplotlib · Seaborn  
 - **Cloud & Data Engineering:** Google BigQuery  
 
 ---

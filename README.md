@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Quant%20Trader-blue" alt="Data Scientist Badge" />
+  <img src="https://img.shields.io/badge/Quantitative%20Trader-blue" alt="Data Scientist Badge" />
   <img src="https://img.shields.io/badge/Data%20Analyst-darkgreen" alt="ML Engineer Badge" />
 </p>
 

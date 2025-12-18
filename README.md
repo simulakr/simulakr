@@ -16,7 +16,7 @@ Building intelligent systems, solving real-world problems with data, and craftin
 - **B.Sc., Aeronautical Engineering** — Istanbul Technical University  
 - **Miuul Data Science Bootcamp** — Data Science & ML Projects 
 - **NewMind AI Bootcamp** — Neo4j Cypher · Vector Embedding · GraphRAG · LangChain · Chatbot · Streamlit  
-- **Kaggle Notebook Master** — 25 Machine Learning Project 
+- **Kaggle Notebook Master** — 25+ Machine Learning Project 
 - **Professional Student Performance Coach** — Guided students to academic success  
 ---
 
@@ -30,7 +30,7 @@ Building intelligent systems, solving real-world problems with data, and craftin
 
 ## 🔧 Technical Skills
 
-- **Languages & Frameworks:** Python · SQL · Streamlit · Neo4j Cypher · LangChain  
+- **Languages & Frameworks:** Python · SQL · LangChain  
 - **Data & ML:** Pandas · NumPy · scikit-learn · XGBoost · LightGBM · TensorFlow · Keras  
 - **NLP & Embeddings:** Hugging Face Transformers · Vector Embedding · GraphRAG  
 - **Visualization:** Power BI · Matplotlib · Seaborn  
@@ -63,13 +63,6 @@ Interactive web app for end-to-end model training, evaluation, and deployment.
 Designed and implemented a full-scale banking database with advanced SQL queries and stored procedures.
 
 ---
-
-## 🛠️ Recent Bootcamp Highlights
-
-- **Neo4j & Graph Modeling:** Designed knowledge graphs, ingested CSV/JSON, wrote complex Cypher queries  
-- **Vector Embedding & Retrieval:** Created embeddings for unstructured text, integrated with Neo4jVector  
-- **GraphRAG & LangChain:** Built hybrid RAG pipelines combining graph data and LLMs for QA  
-- **Chatbot & Streamlit UI:** Deployed a LangChain-powered chatbot in a Streamlit interface  
 
 ---
 

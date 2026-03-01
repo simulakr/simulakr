@@ -6,7 +6,7 @@
 
 # Yunus Bilgiç 👋
 
-**Data Analyst & Quantitative Trader**  
+**Data Analyst & Business Analyst & Quantitative Trader**  
 Building intelligent systems, solving real-world problems with data, and crafting cutting-edge ML/AI applications.
 
 ---

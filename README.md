@@ -22,8 +22,8 @@ Building systematic trading strategies, conducting quantitative research, and le
 
 ## 🏆 Achievements
 
-* **ALES Rank:** 5 (98/100)
-* **KPSS Rank:** 2 (99/100)
+* **ALES:** TR. 5th (98/100)
+* **KPSS:** TR. 2nd (99/100)
 * **Turkish Mind Game Finalist:** 2016–2020
 * **Kaggle Notebook Master** — Active notebook author
 
